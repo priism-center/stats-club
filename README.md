@@ -5,3 +5,4 @@ Each event content are located in the respective sub-directory. A brief descript
 
 1. `GitHub-Basics` conatins the presentation and a markdown file with useful commands for getting started with GitHub.
 2. `RShiny` contains the presentation PDF and the base plot and ggplot code for the two examples in the slides.
+3. `SQL-Workshop` contains the presentation PDF for learning SQL basics. 
