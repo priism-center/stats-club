@@ -29,7 +29,7 @@ you can also host a remote copy (just like you do with Dropbox or Google Drive).
 
 There are [many](https://gitlab.com/), [many](https://bitbucket.org/) providers that let you store 
 your git repositories (that's how you call a *git project*) but the most widely used is 
-[github](https://github.com/) (you'll be using it for dssg).
+[github](https://github.com/)
 
 Apart from storing a copy of your projects, github comes with a lot of useful features. For 
 example, you can use it to share your projects with your colleagues, so they can see (or modify if 
@@ -41,18 +41,16 @@ you want) your project.
 Chances are, git is already installed on your computer. If not, you can get it from 
 [here](https://git-scm.com/).
 
-OS X users: use homebrew, if you don't know what homebrew is, you probably didn't read the 
-prerequisites :(
+OS X users: use homebrew
 
 ## Can I get buttons and stuff?
 
-git is a command line tool, which means it doesn't have a graphical user interface. Using the git 
-cli is the most flexible way of working with git, and if you are working on a remote serve (like in 
-dssg) is best way of doing it.
+git is a command line tool, which means it doesn't have a graphical user interface. GitHub Desktop came out recently which provides a GUI. But, using the git cli is the most flexible way of working with git. 
 
 However, if you still want a GUI (e.g. for using git in your computer), here are some options 
 available:
 
+*   [GitHub Desktop] (https://desktop.github.com/)
 *   [Options for Mac](https://git-scm.com/download/gui/mac)
 *   [GitKraken](https://www.gitkraken.com/) (Windows and Mac)
 
