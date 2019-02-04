@@ -1,7 +1,6 @@
-# Git Overview
+# Overview
 
-The tutorial will give a quick overview of what git is, how to use it and how to work 
-as a team using the GitHub workflow. 
+The file will give a quick guide of getting started with git and creating your first repo and commit. 
 
 For this tutorial you will need to have access to Git, a Terminal and a Text Editor. 
 
