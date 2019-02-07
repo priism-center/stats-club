@@ -14,9 +14,9 @@ books](https://www.gitbook.com/), for example), as long as your files are plain 
 code, latex files), you won't have any issue with git (this guide is actually hosted using git, 
 git-ception!).
 
-Simply speaking, git saves snapshots of your work called `commits`, after a `commit` is done, you 
-can go back and forth to check the state of your project, maybe you were experimenting with some 
-new function and realized the old one was better, no problem, you can bring back anything!
+Simply speaking, git saves snapshots of your work called `commits`. After a `commit` is done, you 
+can go back and forth to check the state of your project. Maybe you were experimenting with some 
+new function and realized the old one was better. No problem, you can bring back anything!
 
 ![git 2](https://imgs.xkcd.com/comics/git_commit.png)
 
@@ -32,8 +32,7 @@ your git repositories (that's how you call a *git project*) but the most widely 
 [github](https://github.com/)
 
 Apart from storing a copy of your projects, github comes with a lot of useful features. For 
-example, you can use it to share your projects with your colleagues, so they can see (or modify if 
-you want) your project.
+example, you can use it to share your projects with your colleagues, so they can see (or modify) your project.
 
 
 ## git sounds awesome! How do I get it?
@@ -45,7 +44,7 @@ OS X users: use homebrew
 
 ## Can I get buttons and stuff?
 
-git is a command line tool, which means it doesn't have a graphical user interface. GitHub Desktop came out recently which provides a GUI. But, using the git cli is the most flexible way of working with git. 
+git is a command line tool, which means it doesn't have a graphical user interface. GitHub Desktop came out recently which provides a GUI. But, using the git command line interface is the most flexible way of working with git. 
 
 However, if you still want a GUI (e.g. for using git in your computer), here are some options 
 available:
@@ -86,6 +85,6 @@ ran `git init`. In such file, you can add rules to let git know what you want it
 more information, [read this](https://git-scm.com/docs/gitignore).
 
 Besides sensitive data, you want to also ignore intermediate files generated automatically by some 
-programming languages or libraries. There are [templates](https://github.com/github/gitignore) 
+programming languages or libraries (e.g., .Rproj files from R Studio projects). There are [templates](https://github.com/github/gitignore) 
 available depending on the tools you use. There's also a nice [command line 
 tool](https://github.com/karan/joe) to fetch such templates.
