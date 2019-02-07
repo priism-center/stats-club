@@ -14,7 +14,7 @@ books](https://www.gitbook.com/), for example), as long as your files are plain 
 code, latex files), you won't have any issue with git (this guide is actually hosted using git, 
 git-ception!).
 
-Simply speaking, git saves snapshots of your work called `commits`. After a `commit` is done, you 
+Simply speaking, git saves snapshots of your work called `commits`. After a `commit` is made, you 
 can go back and forth to check the state of your project. Maybe you were experimenting with some 
 new function and realized the old one was better. No problem, you can bring back anything!
 
@@ -25,13 +25,13 @@ new function and realized the old one was better. No problem, you can bring back
 The entire development of your project is stored in your computer, but we know that's dangerous, so 
 you can also host a remote copy (just like you do with Dropbox or Google Drive).
 
-## What is github?
+## What is GitHub?
 
 There are [many](https://gitlab.com/), [many](https://bitbucket.org/) providers that let you store 
 your git repositories (that's how you call a *git project*) but the most widely used is 
-[github](https://github.com/)
+[GitHub](https://github.com/)
 
-Apart from storing a copy of your projects, github comes with a lot of useful features. For 
+Apart from storing a copy of your projects, GitHub comes with a lot of useful features. For 
 example, you can use it to share your projects with your colleagues, so they can see (or modify) your project.
 
 
@@ -81,8 +81,7 @@ software projects there are files you DON'T want to save on git (e.g. database p
 especially if you have a remote copy).
 
 To prevent git from saving files, create a file and name it `.gitignore` in the folder where you 
-ran `git init`. In such file, you can add rules to let git know what you want it to ignore. For 
-more information, [read this](https://git-scm.com/docs/gitignore).
+ran `git init`. In such file, you can add rules to let git know what you want it to ignore. All you need to do is specify the file name or file extension type. For more information, [read this](https://git-scm.com/docs/gitignore).
 
 Besides sensitive data, you want to also ignore intermediate files generated automatically by some 
 programming languages or libraries (e.g., .Rproj files from R Studio projects). There are [templates](https://github.com/github/gitignore) 
