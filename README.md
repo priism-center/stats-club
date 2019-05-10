@@ -8,6 +8,7 @@ Each event content are located in the respective sub-directory. A brief descript
 3. `SQL-Workshop` contains the presentation PDF for learning SQL basics. 
 4. `WebScrapingTutorial` contains the presentation and R code to learn basics of web scraping.
 5. `ggplot-Workshop` contains the Rmd file with code, explanations, and exercises on using `ggplot`
+6. `Code Sample` contains the presentation on guidelines for writing a code sample for internships and job applications.
 
 ## Contributors
 1. [Kaushik Mohan](https://github.com/kaushik12/)
