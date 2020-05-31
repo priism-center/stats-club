@@ -9,6 +9,8 @@ Each event content are located in the respective sub-directory. A brief descript
 4. `WebScrapingTutorial` contains the presentation and R code to learn basics of web scraping.
 5. `ggplot-Workshop` contains the Rmd file with code, explanations, and exercises on using `ggplot`
 6. `Code Sample` contains the presentation on guidelines for writing a code sample for internships and job applications.
+7. `Dplyr-Workshop` contains notes and practice problems related to using the `dplyr` library in R
+9. `Python-Workshop` contains notes and practice problems for R coders who wish to learn Python for data analysis
 
 ## Contributors
 1. [Kaushik Mohan](https://github.com/kaushik12/)
@@ -17,3 +19,4 @@ Each event content are located in the respective sub-directory. A brief descript
 4. [Bianca Brusco](https://github.com/biabbiassago)
 5. [Madison Volpe](https://github.com/madisonvolpe)
 6. [George Yang](https://github.com/georgemag121/)
+7. [Sophie Sommer](https://github.com/sophiesommer/)
